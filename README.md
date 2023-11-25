@@ -1,8 +1,5 @@
-# padrao-de-projeto
+# Padrao de projeto
 
-
-
-Padrao de projeto
 
 Padrão Singleton
 
